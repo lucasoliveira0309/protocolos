@@ -217,3 +217,20 @@ body.dark-mode #toggleDark:hover {
 .navbar {
     margin-bottom: 30px;
 }
+
+@media (max-width: 767px) {
+    pre {
+        display: none;
+    }
+}
+
+#centro {
+    padding-left: 70px;
+}
+
+@media (min-width: 768px) {
+    #oculto {
+        display: none;
+    }
+}
+
