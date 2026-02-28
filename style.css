@@ -213,3 +213,7 @@ body.dark-mode #toggleDark:hover {
     background-color: #ffffff;
     color: #121212;
 }
+
+.navbar {
+    margin-bottom: 30px;
+}
